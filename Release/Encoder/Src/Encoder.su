@@ -1,0 +1,4 @@
+../Encoder/Src/Encoder.c:22:19:EncoderInit	8	static
+../Encoder/Src/Encoder.c:42:19:EncoderGetMagAlingment	16	static
+../Encoder/Src/Encoder.c:53:6:EncoderGetAngle	16	static
+../Encoder/Src/Encoder.c:61:9:EncoderEnablePool	8	static

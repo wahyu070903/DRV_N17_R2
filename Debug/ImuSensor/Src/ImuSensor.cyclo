@@ -1,0 +1,2 @@
+../ImuSensor/Src/ImuSensor.c:14:6:IMU_Init	1
+../ImuSensor/Src/ImuSensor.c:18:6:IMU_Compute	1
